@@ -46,8 +46,7 @@ This mode will run the selected algorithm with predefined constant speed.
 ## ScreenShots
 ![bublesort](https://user-images.githubusercontent.com/60929919/97009257-80b09800-1561-11eb-9dd9-ddb24da965f0.png)
 ![ripple-sort](https://user-images.githubusercontent.com/60929919/97009411-b190cd00-1561-11eb-9664-42d591652e97.gif)
-#### OutStanding Mode:
-![outstandig-mode](https://user-images.githubusercontent.com/60929919/97009270-84dcb580-1561-11eb-9fd2-4da52191da03.gif)
+
 #### Interactive Mode:
 ![interactive-mode](https://user-images.githubusercontent.com/60929919/97009445-b9507180-1561-11eb-8645-a9673339f620.gif)
 
