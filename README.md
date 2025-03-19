@@ -53,10 +53,10 @@ This mode will run the selected algorithm with predefined constant speed.
 ## Installation 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rustiever/SortingAlgorthimsVisualizer.git
+$ git clone https://github.com/amisha-singh12/Sorting-Visualizer.git
 
 # Go into the repository
-$ cd SortingAlgorthimsVisualizer
+$ cd Sorting-Visualizer
 ```
 
 ## Build/Compile Application
