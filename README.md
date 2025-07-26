@@ -72,7 +72,7 @@ $ g++ visualizer.cpp -lGL -lGLU -lglut
 ```bash
 $ ./visualizer
 ```
-Built and Tested on Mac OS ✅👍🏻
+
 
 
 Made with :heart: and C++.
